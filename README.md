@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/github/Plextora/circles.svg)](https://wakatime.com/badge/github/Plextora/circles)
 # C i r c l e s
 
 ## A relaxing game with circles that bounce around the screen
