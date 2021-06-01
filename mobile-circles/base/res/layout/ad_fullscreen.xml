@@ -1,0 +1,39 @@
+
+ù
+9
+android*http://schemas.android.com/apk/res/androidRelativeLayout"u
+*http://schemas.android.com/apk/res/android
+background@android:color/black"(Ô„2
+Œ€˜android:color/black"a
+*http://schemas.android.com/apk/res/androidlayout_heightmatch_parent"(õ„2:0ÿÿÿÿÿÿÿÿÿ"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"(ô„2:0ÿÿÿÿÿÿÿÿÿ"R
+*http://schemas.android.com/apk/res/androidorientationvertical"(Ä„2:0*
+
+    .*›
+’	ImageView"Š
+*http://schemas.android.com/apk/res/androidcontentDescription@string/interstitial_image"	(ó„„2#
+!©€´østring/interstitial_image"Y
+*http://schemas.android.com/apk/res/androidid
+@+id/image"	(Ğ„2
+—œøid/image"X
+*http://schemas.android.com/apk/res/androidlayout_centerInParenttrue"	(ƒ„2:@"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"	(õ„2:0şÿÿÿÿÿÿÿÿ"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"	(ô„2:0ÿÿÿÿÿÿÿÿÿ	*
+
+    B*Ñ
+ÈImageButton"r
+*http://schemas.android.com/apk/res/android
+background@drawable/close_ad"(Ô„2
+à€˜ødrawable/close_ad"~
+*http://schemas.android.com/apk/res/androidcontentDescription@string/close_button"(ó„„2
+œ€´østring/close_button"g
+*http://schemas.android.com/apk/res/androidid@+id/button_close"(Ğ„2
+Ş€œøid/button_close"Q
+*http://schemas.android.com/apk/res/androidlayout_height25dp"(õ„2:h2"P
+*http://schemas.android.com/apk/res/androidlayout_margin8dp"(ö„2:h"P
+*http://schemas.android.com/apk/res/androidlayout_width25dp"(ô„2:h2"e
+*http://schemas.android.com/apk/res/androidsrc@drawable/close"(™‚„2
+ß€˜ødrawable/close*
+
+
+<
